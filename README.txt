@@ -5,3 +5,4 @@ Hi new commit
 new commit on feature branch
 testing commit
 again a new commit
+Hello how are you
