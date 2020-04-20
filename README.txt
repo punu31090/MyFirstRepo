@@ -7,3 +7,8 @@ testing commit
 again a new commit
 Hello how are you
 hI HOW ARE
+Test 4 branch first commit
+Test 4 branch second commit
+New test branch 5 it is, first commit
+New test branch 5 it is, second commit
+My 3rd change
