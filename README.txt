@@ -6,3 +6,4 @@ new commit on feature branch
 testing commit
 again a new commit
 Hello how are you
+hI HOW ARE
